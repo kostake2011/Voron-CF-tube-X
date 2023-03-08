@@ -22,9 +22,12 @@ The assembly is pretty simple. We print from ABS Rail_Nut Guide.STL (for 300 and
 From the edges of the beam we insert M5_nut_holder (also printed from ABS), with M5 nuts pre-installed in them. 
 ![300_MGN12](https://user-images.githubusercontent.com/112852246/223702544-d54749ac-f0f2-45ba-9f01-fd1a2af8502e.jpg)
 
-After that, we insert the beam into the joints and tighten the M5 screws. We take joints for CF pipes from Woki-Leo (link at the top of the page). Everyone, you lightened your Voron)
+After that, we insert the beam into the joints and tighten the M5 screws. We take joints for CF pipes from Woki-Leo (link at the top of the page).
 
 ![300_MGN12_2](https://user-images.githubusercontent.com/112852246/223702905-6134eefe-0a41-48ac-8f0d-dca3bf77230e.jpg)
+
+
+ Everyone, you lightened your Voron)
 
 
 
