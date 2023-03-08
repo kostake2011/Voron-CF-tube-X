@@ -1,4 +1,4 @@
-# Voron-CF-tube-X
+# Voron-CF-tube-X (2.4 and Trident)
 
 Hi all. Inspired by the project https://github.com/Woki-Leo/Carbonfiber-X-Axis?spm=5261.im.0.0.42d64edfKq04fY , it was decided to make a beam with thicker walls from CF pipe 20 * 20 * 17 and without holes at the back for fastening rails to get maximum rigidity.
 The seller on Aliexpress- CARBON TIME Official Store decided to help us with this and carry out cutting and drilling of CF pipe in the factory.
