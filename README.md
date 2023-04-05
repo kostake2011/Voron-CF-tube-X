@@ -3,6 +3,7 @@
 Hi all. Inspired by the project https://github.com/Woki-Leo/Carbonfiber-X-Axis?spm=5261.im.0.0.42d64edfKq04fY , it was decided to make a beam with thicker walls from CF pipe 20 * 20 * 17 and without holes at the back for fastening rails to get maximum rigidity.
 The seller on Aliexpress- CARBON TIME Official Store decided to help us with this and carry out cutting and drilling of CF pipe in the factory.
 Comrades https://github.com/alexandrsk8 and https://github.com/Solders2004 kindly provided the STL for installing the beam. Thank you very much for this!
+You can buy a carbon beam with holes here https://aliexpress.ru/item/1005005374948571.html
 
 Beam example for Voron 250
 ![DSC_0673](https://user-images.githubusercontent.com/112852246/223711558-f5600291-5b44-4e30-aa62-c32163f6e9fc.JPG)
